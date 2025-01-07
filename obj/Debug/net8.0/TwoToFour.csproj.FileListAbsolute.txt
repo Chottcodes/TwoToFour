@@ -30,3 +30,4 @@ C:\Users\chott\OneDrive\Desktop\Level 2\TwoToFour\obj\Debug\net8.0\refint\TwoToF
 C:\Users\chott\OneDrive\Desktop\Level 2\TwoToFour\obj\Debug\net8.0\TwoToFour.pdb
 C:\Users\chott\OneDrive\Desktop\Level 2\TwoToFour\obj\Debug\net8.0\TwoToFour.genruntimeconfig.cache
 C:\Users\chott\OneDrive\Desktop\Level 2\TwoToFour\obj\Debug\net8.0\ref\TwoToFour.dll
+C:\Users\chott\OneDrive\Desktop\Level 2\TwoToFour\obj\Debug\net8.0\TwoToFour.sourcelink.json
